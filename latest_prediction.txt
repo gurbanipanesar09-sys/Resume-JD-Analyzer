@@ -1,0 +1,23 @@
+RESUME-JD MATCH ANALYSIS
+=============================================
+Predicted Match: Medium Match
+Confidence Score: 92.71%
+
+Class Probabilities:
+Weak Match: 0.71%
+Medium Match: 92.71%
+Strong Match: 6.58%
+
+Matched Skills:
+- machine learning
+- pandas
+- python
+- sql
+- tensorflow
+
+Missing Skills:
+- docker
+- nlp
+
+Recommendation:
+The candidate has partial alignment with the job requirements. A technical screening is recommended.
